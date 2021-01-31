@@ -1,0 +1,4 @@
+name: GeyserLoader
+version: ${project.version}
+main: com.github.Lutwidse.GeyserLoader
+api-version: 1.16
